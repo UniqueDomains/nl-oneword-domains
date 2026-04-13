@@ -76,13 +76,13 @@ print(df.head())
 | principled.nl   | available | $11.99    | —             | 75             | 10     | 10     | name.com                         |
 | usa.nl          | resell    | —         | —             | 78             | 44     | 3      | EuroDNS S.A.                     |
 | complain.nl     | premium   | $1,026.96 | —             | 69             | 12     | 8      | Metaregistrar B.V.               |
-| masterful.nl    | available | $11.99    | $11.99        | 74             | 10     | 9      | name.com                         |
+| clumsy.nl       | available | $11.99    | —             | 60             | 10     | 6      | name.com                         |
 | org.nl          | resell    | —         | —             | 64             | 43     | 3      | Realtime Register                |
 | older.nl        | premium   | $1,098.25 | $11.99        | 66             | 10     | 5      | Metaregistrar B.V.               |
-| clumsy.nl       | available | $11.99    | —             | 60             | 10     | 6      | name.com                         |
+| contingent.nl   | available | $11.99    | $11.99        | 80             | 9      | 10     | name.com                         |
 | hot.nl          | resell    | —         | —             | 84             | 41     | 3      | Funbit B.V.                      |
 | obviously.nl    | premium   | $540.13   | —             | 66             | 10     | 9      | Metaregistrar B.V.               |
-| dying.nl        | available | $11.99    | $11.99        | 82             | 9      | 5      | name.com                         |
+| masterful.nl    | available | $11.99    | $11.99        | 74             | 9      | 9      | name.com                         |
 | ever.nl         | resell    | —         | —             | 86             | 40     | 4      | RegistrarHub                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
