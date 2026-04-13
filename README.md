@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .nl one-word domains from Unique D
 
 **Public extract:** 659 rows · **Live catalog:** 659 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/nl`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | entrepreneur.nl | resell    | —         | —             | 82             | 80     | 12     | Realtime Register                |
 | remove.nl       | premium   | $4,093.63 | —             | 82             | 15     | 6      | SmartLogic                       |
 | getinto.nl      | available | $11.99    | —             | 76             | 10     | 8      | name.com                         |
-| bad.nl          | resell    | —         | —             | 82             | 44     | 3      | team.blue nl B.V.                |
+| bad.nl          | resell    | —         | —             | 82             | 45     | 3      | team.blue nl B.V.                |
 | ill.nl          | premium   | $3,146.03 | —             | 68             | 14     | 3      | Internet Domain Service BS Corp. |
 | principled.nl   | available | $11.99    | —             | 75             | 10     | 10     | name.com                         |
 | usa.nl          | resell    | —         | —             | 78             | 44     | 3      | EuroDNS S.A.                     |
@@ -79,10 +79,10 @@ print(df.head())
 | masterful.nl    | available | $11.99    | $11.99        | 74             | 10     | 9      | name.com                         |
 | org.nl          | resell    | —         | —             | 64             | 43     | 3      | Realtime Register                |
 | older.nl        | premium   | $1,098.25 | $11.99        | 66             | 10     | 5      | Metaregistrar B.V.               |
-| marginal.nl     | available | $11.99    | —             | 64             | 10     | 8      | name.com                         |
+| clumsy.nl       | available | $11.99    | —             | 60             | 10     | 6      | name.com                         |
 | hot.nl          | resell    | —         | —             | 84             | 41     | 3      | Funbit B.V.                      |
 | obviously.nl    | premium   | $540.13   | —             | 66             | 10     | 9      | Metaregistrar B.V.               |
-| clumsy.nl       | available | $11.99    | —             | 60             | 10     | 6      | name.com                         |
+| dying.nl        | available | $11.99    | $11.99        | 82             | 9      | 5      | name.com                         |
 | ever.nl         | resell    | —         | —             | 86             | 40     | 4      | RegistrarHub                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
