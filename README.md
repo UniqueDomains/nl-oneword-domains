@@ -65,7 +65,7 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | oldage.nl         | available | $11.99    | —             | 71             | 20     | 7      | name.com                     |
-| hashtag.nl        | resell    | —         | —             | 82             | 30     | 7      | team.blue nl B.V.            |
+| hashtag.nl        | resell    | —         | —             | 82             | 32     | 7      | team.blue nl B.V.            |
 | newage.nl         | premium   | $6,964.86 | —             | 56             | 32     | 7      | Pidom B.V.                   |
 | whatthe.nl        | available | $11.99    | —             | 58             | 16     | 8      | name.com                     |
 | fanclub.nl        | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
