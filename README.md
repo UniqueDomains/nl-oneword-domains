@@ -68,10 +68,10 @@ print(df.head())
 | hashtag.nl        | resell    | —         | —             | 82             | 32     | 7      | team.blue nl B.V.            |
 | newage.nl         | premium   | $6,964.86 | —             | 56             | 32     | 7      | Pidom B.V.                   |
 | whatthe.nl        | available | $11.99    | —             | 58             | 16     | 8      | name.com                     |
-| fanclub.nl        | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
+| NewWorld.nl       | resell    | —         | —             | 83             | 21     | 9      | Registrar.eu                 |
 | poor.nl           | premium   | $1,931.92 | —             | 54             | 15     | 4      | ZXCS                         |
 | goodasgold.nl     | available | $11.99    | —             | 80             | 14     | 12     | name.com                     |
-| NewWorld.nl       | resell    | —         | —             | 83             | 20     | 9      | Registrar.eu                 |
+| fanclub.nl        | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
 | ChineseNewYear.nl | premium   | —         | —             | 78             | 14     | 16     | —                            |
 | blackcomedy.nl    | available | $11.99    | —             | 80             | 13     | 12     | name.com                     |
 | peninsula.nl      | resell    | —         | —             | 76             | 19     | 9      | team.blue nl B.V.            |
