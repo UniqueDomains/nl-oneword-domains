@@ -1,10 +1,10 @@
-# Available .NL One-Word Domains (3,406)
+# Available .NL One-Word Domains (3,411)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-3%2C406%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-3%2C411%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .nl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **3,406 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **3,411 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 3,406 domains · **Median ask:** $25.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 3,411 domains · **Median ask:** $25.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/nl`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| oldage.nl         | available | $11.99    | —             | 71             | 20     | 7      | name.com                     |
-| hashtag.nl        | resell    | —         | —             | 82             | 32     | 7      | team.blue nl B.V.            |
-| newage.nl         | premium   | $6,964.86 | —             | 56             | 32     | 7      | Pidom B.V.                   |
-| whatthe.nl        | available | $11.99    | —             | 58             | 16     | 8      | name.com                     |
-| NewWorld.nl       | resell    | —         | —             | 83             | 21     | 9      | Registrar.eu                 |
-| poor.nl           | premium   | $1,931.92 | —             | 54             | 15     | 4      | ZXCS                         |
-| goodasgold.nl     | available | $11.99    | —             | 80             | 14     | 12     | name.com                     |
-| fanclub.nl        | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
-| ChineseNewYear.nl | premium   | —         | —             | 78             | 14     | 16     | —                            |
-| blackcomedy.nl    | available | $11.99    | —             | 80             | 13     | 12     | name.com                     |
-| peninsula.nl      | resell    | —         | —             | 76             | 19     | 9      | team.blue nl B.V.            |
-| BlackPlague.nl    | premium   | —         | —             | 56             | 12     | 12     | —                            |
-| bluecheese.nl     | available | $11.99    | —             | 78             | 13     | 11     | name.com                     |
-| cooperation.nl    | resell    | —         | —             | 80             | 18     | 11     | Registreer.Me                |
-| BlackThursday.nl  | premium   | —         | —             | 44             | 11     | 14     | —                            |
-| onfoot.nl         | available | $11.99    | —             | 58             | 13     | 7      | name.com                     |
-| hangout.nl        | resell    | —         | —             | 82             | 16     | 8      | Internet Service Europe B.V. |
-| SouthAmerican.nl  | premium   | —         | —             | 66             | 10     | 14     | —                            |
-| trillionaire.nl   | available | $11.99    | —             | 84             | 12     | 12     | name.com                     |
-| hookup.nl         | resell    | —         | —             | 76             | 16     | 7      | Realtime Register            |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| trillionaire.nl  | available | $11.99    | —             | 84             | 12     | 12     | name.com                     |
+| hashtag.nl       | resell    | —         | —             | 82             | 32     | 7      | team.blue nl B.V.            |
+| newage.nl        | premium   | $6,964.86 | —             | 56             | 32     | 7      | Pidom B.V.                   |
+| whatthe.nl       | available | $11.99    | —             | 58             | 11     | 8      | name.com                     |
+| NewWorld.nl      | resell    | —         | —             | 83             | 21     | 9      | Registrar.eu                 |
+| poor.nl          | premium   | $1,931.92 | —             | 54             | 15     | 4      | ZXCS                         |
+| howlong.nl       | available | $11.99    | —             | 58             | 9      | 8      | name.com                     |
+| fanclub.nl       | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
+| SouthAmerican.nl | premium   | —         | —             | 66             | 10     | 14     | —                            |
+| alternatively.nl | available | $11.99    | —             | 58             | 9      | 13     | name.com                     |
+| peninsula.nl     | resell    | —         | —             | 76             | 19     | 9      | team.blue nl B.V.            |
+| VirginiaBeach.nl | premium   | —         | —             | 58             | 9      | 14     | —                            |
+| pumping.nl       | available | $11.99    | —             | 76             | 8      | 7      | name.com                     |
+| hookup.nl        | resell    | —         | —             | 76             | 16     | 7      | Realtime Register            |
+| StudioCity.nl    | premium   | —         | —             | 70             | 7      | 11     | —                            |
+| heavycream.nl    | available | $11.99    | —             | 70             | 8      | 11     | name.com                     |
+| hits.nl          | resell    | —         | —             | 62             | 16     | 4      | Registrar.eu                 |
+| HillCity.nl      | premium   | —         | —             | 66             | 7      | 9      | —                            |
+| showandtell.nl   | available | $11.99    | —             | 70             | 8      | 13     | name.com                     |
+| hangout.nl       | resell    | —         | —             | 82             | 12     | 8      | Internet Service Europe B.V. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 3,406 live domains                         |
+| 1,000-row public sample | 3,411 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NL One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
