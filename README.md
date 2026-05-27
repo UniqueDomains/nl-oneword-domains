@@ -70,16 +70,16 @@ print(df.head())
 | whatthe.nl        | available | $11.99    | —             | 58             | 11     | 8      | name.com                     |
 | NewWorld.nl       | resell    | —         | —             | 83             | 21     | 9      | Registrar.eu                 |
 | poor.nl           | premium   | $1,931.92 | —             | 54             | 15     | 4      | ZXCS                         |
-| alternatively.nl  | available | $11.99    | —             | 58             | 9      | 13     | name.com                     |
+| publicservice.nl  | available | $11.99    | —             | 65             | 9      | 14     | name.com                     |
 | fanclub.nl        | resell    | —         | —             | 84             | 20     | 8      | EuroDNS S.A.                 |
 | SouthAmerican.nl  | premium   | —         | —             | 66             | 10     | 14     | —                            |
-| pumping.nl        | available | $11.99    | —             | 76             | 8      | 7      | name.com                     |
+| alternatively.nl  | available | $11.99    | —             | 58             | 9      | 13     | name.com                     |
 | peninsula.nl      | resell    | —         | —             | 76             | 19     | 9      | team.blue nl B.V.            |
 | VirginiaBeach.nl  | premium   | —         | —             | 58             | 9      | 14     | —                            |
-| showandtell.nl    | available | $11.99    | —             | 70             | 8      | 13     | name.com                     |
+| pumping.nl        | available | $11.99    | —             | 76             | 8      | 7      | name.com                     |
 | hookup.nl         | resell    | —         | —             | 76             | 16     | 7      | Realtime Register            |
 | QueenElizabeth.nl | premium   | —         | —             | 82             | 6      | 15     | —                            |
-| publicservice.nl  | available | $11.99    | —             | 65             | 8      | 14     | name.com                     |
+| showandtell.nl    | available | $11.99    | —             | 70             | 8      | 13     | name.com                     |
 | hits.nl           | resell    | —         | —             | 62             | 16     | 4      | Registrar.eu                 |
 | ChineseNewYear.nl | premium   | —         | —             | 78             | 6      | 16     | —                            |
 | treeofsorrow.nl   | available | $11.99    | —             | 60             | 8      | 14     | name.com                     |
