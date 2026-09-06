@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .nl one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,719 domains · **Median ask:** $13.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/nl`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| abiding.nl      | available | $11.99    | $11.99        | high           | low    | 7      | name.com                     |
-| unhappy.nl      | available | $11.99    | $11.99        | high           | low    | 7      | name.com                     |
-| medical.nl      | resell    | —         | —             | high           | low    | 7      | TXH Media                    |
-| forgiving.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
-| nought.nl       | available | $11.99    | $11.99        | high           | low    | 6      | name.com                     |
-| derelict.nl     | available | $11.99    | $11.99        | high           | low    | 8      | name.com                     |
-| twentieth.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
-| agreeable.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
-| launch.nl       | resell    | —         | —             | high           | low    | 6      | Internet Service Europe B.V. |
-| endearing.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
-| convincing.nl   | available | $11.99    | $11.99        | high           | low    | 10     | name.com                     |
-| bicycle.nl      | resell    | —         | —             | high           | low    | 7      | ZXCS                         |
-| oxygen.nl       | resell    | —         | —             | high           | low    | 6      | Registrar.eu                 |
-| affectionate.nl | available | $11.99    | —             | high           | low    | 12     | name.com                     |
-| sixteen.nl      | resell    | —         | —             | high           | low    | 7      | Funbit B.V.                  |
-| consummate.nl   | available | $11.99    | $11.99        | high           | low    | 10     | name.com                     |
-| beguiling.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
-| dinner.nl       | resell    | —         | —             | high           | low    | 6      | ZXCS                         |
-| laic.nl         | available | $7.48     | $8.98         | low            | low    | 4      | namecheap                    |
-| bad.nl          | resell    | —         | —             | high           | medium | 3      | team.blue nl B.V.            |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------- |
+| laic.nl     | available | $7.48     | $8.98         | low            | low    | 4      | namecheap                        |
+| bad.nl      | resell    | —         | —             | high           | medium | 3      | team.blue nl B.V.                |
+| ill.nl      | premium   | $3,131.82 | —             | medium         | low    | 3      | Internet Domain Service BS Corp. |
+| annoy.nl    | available | $6.98     | $7.99         | medium         | low    | 5      | namesilo                         |
+| bed.nl      | resell    | —         | —             | high           | low    | 3      | Hostnet B.V.                     |
+| liked.nl    | premium   | $1,635.79 | —             | high           | low    | 5      | Metaregistrar B.V.               |
+| apian.nl    | available | $6.98     | $7.99         | low            | low    | 5      | namesilo                         |
+| fat.nl      | resell    | —         | —             | medium         | low    | 3      | The Registrar Company B.V.       |
+| older.nl    | premium   | $1,098.25 | $11.99        | medium         | low    | 5      | Metaregistrar B.V.               |
+| balmy.nl    | available | $11.99    | —             | high           | low    | 5      | name.com                         |
+| flu.nl      | resell    | —         | —             | medium         | low    | 3      | Realtime Register                |
+| shrub.nl    | premium   | $2,566.81 | —             | medium         | low    | 5      | Metaregistrar B.V.               |
+| bared.nl    | available | $6.98     | $7.99         | medium         | low    | 5      | namesilo                         |
+| gal.nl      | resell    | —         | —             | medium         | low    | 3      | Realtime Register                |
+| marble.nl   | premium   | $4,180.10 | —             | medium         | low    | 6      | Realtime Register                |
+| clxxx.nl    | available | $6.98     | $7.99         | low            | low    | 5      | namesilo                         |
+| hot.nl      | resell    | —         | —             | high           | low    | 3      | Funbit B.V.                      |
+| complain.nl | premium   | $1,019.85 | —             | medium         | low    | 8      | Metaregistrar B.V.               |
+| dying.nl    | available | $11.99    | $11.99        | high           | low    | 5      | name.com                         |
+| ike.nl      | resell    | —         | —             | high           | low    | 3      | Realtime Register                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NL One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NL One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
