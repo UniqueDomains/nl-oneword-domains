@@ -1,10 +1,10 @@
-# Available .NL One-Word Domains (11,403)
+# Available .NL One-Word Domains (11,907)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C403%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C907%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .nl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,403 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,907 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,403 domains · **Median ask:** $12.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,907 domains · **Median ask:** $12.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/nl`
 **Best for:** founders, investors, studios
 
@@ -82,8 +82,8 @@ print(df.head())
 | consummate.nl   | available | $11.99    | $11.99        | high           | low    | 10     | name.com                     |
 | beguiling.nl    | available | $11.99    | $11.99        | high           | low    | 9      | name.com                     |
 | dinner.nl       | resell    | —         | —             | high           | low    | 6      | ZXCS                         |
-| corrective.nl   | available | $11.99    | $11.99        | high           | low    | 10     | name.com                     |
-| grandchild.nl   | available | $6.98     | $7.99         | high           | low    | 10     | namesilo                     |
+| laic.nl         | available | $7.48     | $8.98         | low            | low    | 4      | namecheap                    |
+| bad.nl          | resell    | —         | —             | high           | medium | 3      | team.blue nl B.V.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,403 live domains                        |
+| 1,000-row public sample | 11,907 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NL One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NL One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
