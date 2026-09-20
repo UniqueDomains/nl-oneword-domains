@@ -6,14 +6,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 c2e0db5d-79e7-4332-9f7f-9e1b22935e5e,generically.nl,available,11.99,,medium,low,11,name.com,,,
 95530b4d-a727-4d50-b435-8f82cbce7228,furthest.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 05c71c85-3a7f-4171-aa62-1c33b136dcac,ifnot.nl,available,6.98,7.99,medium,low,6,namesilo,,,
-916ee24a-2989-4f1c-b6b8-370a47db11f2,procedure.nl,resell,,,high,low,9,team.blue nl B.V.,24/01/2000 02:13,,
 658a9432-f9d0-4264-aa97-15816b3718e5,abhorrent.nl,available,11.99,11.99,medium,low,9,name.com,,,
 097b30f0-bfe4-4050-bb5a-90885a8352d9,antenatal.nl,available,11.99,,high,low,9,name.com,,,
 a562bd92-338d-40e9-8b3d-1ddcb98c195a,taxassessment.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 6b4007ab-5403-43a0-ae81-2d73637b1816,thinkof.nl,available,6.98,7.99,high,low,8,namesilo,,,
 cda5af06-d391-4f09-b59d-00082a84c14c,astound.nl,available,6.98,7.99,high,low,7,namesilo,,,
 648b6839-4d7e-414e-99ed-9f501effb1bd,vomiting.nl,available,6.98,7.99,medium,low,8,namesilo,,,
-e9e7743e-0866-4fab-b088-e124c11f5fd0,AmericanEnglish.nl,available,11.99,,medium,low,16,name.com,,,
+e9e7743e-0866-4fab-b088-e124c11f5fd0,americanenglish.nl,available,11.99,,medium,low,16,name.com,,,
 b1b8f288-8ea8-4e92-88b4-e25957b3cf73,experimentally.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 acc2d4e2-04e0-4faf-bb27-3c3a6e669bb8,serveup.nl,available,6.98,7.99,high,low,8,namesilo,,,
 23ee350c-4b07-4b06-9f80-c8d387cf5865,onthebrinkof.nl,available,6.98,7.99,medium,low,15,namesilo,,,
@@ -27,9 +26,9 @@ acc2d4e2-04e0-4faf-bb27-3c3a6e669bb8,serveup.nl,available,6.98,7.99,high,low,8,n
 8bb12ebd-0b66-4d04-a972-63eb80440d6f,complicate.nl,available,6.98,7.99,low,low,10,namesilo,,,08/09/2026 14:25
 9387951e-0f6b-44fb-aeb8-ef4833e0d620,registeredtrademark.nl,available,11.99,,medium,low,20,name.com,,,
 53539fc1-3c23-4310-82b7-f5b4fcd5ef38,comeover.nl,available,6.98,7.99,high,low,9,namesilo,,,
-68d0de76-91c2-4673-9919-ca6ac20a5328,test.nl,resell,,,high,high,4,Hostnet B.V.,20/09/1999 10:58,,
+68d0de76-91c2-4673-9919-ca6ac20a5328,test.nl,resell,,,low,low,4,Hostnet B.V.,20/09/1999 10:58,,19/09/2026 10:44
 43bee046-7344-40dd-bfe0-44bcc146368b,beatenup.nl,available,6.98,7.99,medium,low,9,namesilo,,,
-2726cadc-31fa-47d5-8d68-b63a96cb9cbc,grandparent.nl,available,6.98,7.99,medium,low,11,namesilo,,,15/09/2026 07:07
+2726cadc-31fa-47d5-8d68-b63a96cb9cbc,grandparent.nl,available,6.98,7.99,medium,low,11,namesilo,,,19/09/2026 04:27
 511bb326-c729-44b9-826a-6dc1ff3a6ca4,bringto.nl,available,6.98,7.99,high,low,8,namesilo,,,
 51e95346-b91c-4dd3-8875-4348ee17fa9d,elvis.nl,resell,,,high,low,5,Hostnet B.V.,30/12/1998 14:18,,
 041ebca2-379f-4fba-a767-1c3a10da2756,trimback.nl,available,6.98,7.99,high,low,9,namesilo,,,
@@ -38,7 +37,7 @@ cea04abd-b6de-4a3b-a84c-12c5d5cca032,sounding.nl,available,6.98,7.99,medium,low,
 466d8805-ba13-433a-8dca-37bbc5d5e960,drseuss.nl,available,6.98,7.99,high,low,9,namesilo,,,
 8ff036c1-36bc-438c-bbd0-02819f482b83,earlier.nl,available,11.99,11.99,medium,low,7,name.com,,,
 fc986262-103d-4d0a-862f-b94b4edd4b00,selfworth.nl,available,6.98,7.99,high,low,10,namesilo,,,
-5e32a301-e18b-48df-8494-8ae57dec045e,turmeric.nl,resell,,,medium,low,8,team.blue nl B.V.,16/02/2021 14:31,,12/09/2026 11:21
+5e32a301-e18b-48df-8494-8ae57dec045e,turmeric.nl,resell,,,medium,low,8,team.blue nl B.V.,16/02/2021 14:31,,19/09/2026 15:28
 60a34278-2716-4524-a432-76003b72aad7,conflicted.nl,available,6.98,7.99,medium,low,10,namesilo,,,
 40cbcece-f86a-4ff7-aeca-3b72db8c8820,portuguese.nl,available,6.98,7.99,high,low,10,namesilo,,,
 fad16b45-e6a2-475f-a70a-43845467eecf,nought.nl,available,11.99,11.99,high,low,6,name.com,,,
@@ -112,7 +111,7 @@ bd0c3af9-71f1-44f1-9fa6-66b9dcfc71cb,riveravon.nl,available,6.98,7.99,high,low,1
 5cf112a3-779f-4059-83db-25944e983a65,breakinto.nl,available,6.98,7.99,high,low,10,namesilo,,,
 f05cfb13-d384-4042-aa11-eebbeccc4a09,holdoff.nl,available,6.98,7.99,high,low,8,namesilo,,,
 f041e41b-6007-4fd4-86a0-3ef686f781b7,sneezing.nl,available,6.98,7.99,medium,low,8,namesilo,,,
-1b4135b3-5d71-4604-a316-f79f8bbe7896,hot.nl,resell,,,medium,medium,3,Funbit B.V.,06/09/1999 13:34,,12/09/2026 10:33
+1b4135b3-5d71-4604-a316-f79f8bbe7896,hot.nl,resell,,,medium,low,3,Funbit B.V.,06/09/1999 13:34,,19/09/2026 15:25
 8c050529-836b-4765-8187-c689697a012e,able.nl,resell,,,high,low,4,Previder B.V.,27/04/1999 12:34,,
 e6e8b1fb-b6ee-4067-90dc-ce6281cc5b11,endall.nl,available,6.98,7.99,high,low,7,namesilo,,,
 4296f0f0-d20f-4985-9681-3088c5182664,wrongly.nl,available,6.98,7.99,medium,low,7,namesilo,,,
@@ -122,12 +121,12 @@ e6e8b1fb-b6ee-4067-90dc-ce6281cc5b11,endall.nl,available,6.98,7.99,high,low,7,na
 53e7650e-8669-464e-8235-9101c6d494c9,clumsy.nl,available,6.98,7.99,medium,low,6,namesilo,,,
 742ff56a-cd46-4166-b580-58529a5e2f07,disgust.nl,available,6.98,7.99,medium,low,7,namesilo,,,
 103bf216-dce6-4868-a8c0-3d4b74340fd2,terrifying.nl,available,6.98,7.99,medium,low,10,namesilo,,,
-9385ccd5-07b0-411a-b9b5-06200168c814,savings.nl,resell,,,high,low,7,Internet Service Europe B.V.,10/06/2002 14:31,,
+9385ccd5-07b0-411a-b9b5-06200168c814,savings.nl,resell,,,low,low,7,Internet Service Europe B.V.,10/06/2002 14:31,,19/09/2026 13:58
 c7821dfe-06c0-4cb9-a4a9-1399875e3db7,inthewakeof.nl,available,11.99,,medium,low,14,name.com,,,
 d87075ea-f2fc-4db1-b673-6b9d411ca66d,grinning.nl,available,6.98,7.99,high,low,8,namesilo,,,
 1cb2617a-ef2d-4292-8855-6a5f79e1073a,farthest.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 d95be340-85ee-4e9c-9564-6b439c46b171,pretending.nl,available,6.98,7.99,high,low,10,namesilo,,,
-372039bd-6dce-4dde-a0f6-537193833839,garden.nl,resell,,,high,low,6,Combell,10/03/1999 10:13,,
+372039bd-6dce-4dde-a0f6-537193833839,garden.nl,resell,,,low,low,6,Combell,10/03/1999 10:13,,19/09/2026 06:17
 29d63165-c6ac-47bc-920b-c3c4140c18b4,strongly.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 74334c61-23b5-49f0-b2c8-9e1fdbbef612,steamengine.nl,available,11.99,,high,low,12,name.com,,,
 06ce966e-9dd0-47b0-950c-a7f9ee925c44,bacterial.nl,available,6.98,7.99,high,low,9,namesilo,,,
@@ -141,7 +140,7 @@ c279d4df-07e8-42f6-8c58-04917632ab7f,terrified.nl,available,6.98,7.99,medium,low
 c256b60d-f890-4e24-a93c-3dd869ee6794,hardly.nl,available,11.99,,high,low,6,name.com,,,
 6b14cc50-8e6b-4a37-a8a7-482af50f5366,comparatively.nl,available,6.98,7.99,medium,low,13,namesilo,,,
 7072603d-dd1f-43a2-afcc-3d3f1bfccf46,quitea.nl,available,6.98,7.99,medium,low,7,namesilo,,,
-4214af95-7b0c-4788-a873-e5ec9a76c7d3,Germanshepherd.nl,available,6.98,7.99,medium,low,15,namesilo,,,
+4214af95-7b0c-4788-a873-e5ec9a76c7d3,germanshepherd.nl,available,6.98,7.99,medium,low,15,namesilo,,,
 09e53439-3e43-400a-99f7-db336184387f,esthetical.nl,available,11.99,11.99,high,low,10,name.com,,,
 ad06246e-66f2-48b2-a70e-a55f25134e6c,primary.nl,resell,,,high,low,7,ZXCS,03/01/2001 22:35,,
 1f2cda45-c852-4808-95b6-57974171eeff,reticent.nl,available,11.99,,medium,low,8,name.com,,,
@@ -163,7 +162,7 @@ d21dddd6-7f3b-4e96-8ee1-fa50aa234b7f,retardant.nl,available,6.98,7.99,medium,low
 4ae01381-5f09-4f0b-8705-325e117de71a,respectively.nl,available,6.98,7.99,medium,low,12,namesilo,,,
 d4a6587b-58c0-4a9c-a2d9-1a309b5ade53,aboard.nl,resell,,,medium,low,6,Tucows.com Co.,02/07/2003 15:08,,
 04f879c7-5256-44a2-88c3-9a303a2ae859,getat.nl,available,6.98,7.99,high,low,6,namesilo,,,
-5239dc92-3bbc-4cc2-bee1-e8874446b5f7,entrepreneur.nl,resell,,,high,high,12,Realtime Register,14/07/2019 08:14,,
+5239dc92-3bbc-4cc2-bee1-e8874446b5f7,entrepreneur.nl,resell,,,medium,low,12,Realtime Register,14/07/2019 08:14,,19/09/2026 06:23
 9aabdd94-d536-4c9a-8998-dbd084f76655,scrubbed.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 759ec414-46a5-45df-b75c-7eb53a9d0bfb,quitean.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 5648cc20-1294-4585-93bb-2ccca9b704d1,abiding.nl,available,11.99,11.99,high,low,7,name.com,,,
@@ -211,7 +210,7 @@ f41c7848-ddd0-4dbf-aeca-f27810c39880,cheerfully.nl,available,6.98,7.99,high,low,
 0384b3ae-406f-40b7-aa39-3828aa262101,damned.nl,resell,,,medium,low,6,NameWeb,13/09/2011 23:00,,
 3926090d-ec5a-481d-ae9e-87c3043baa64,candidacy.nl,available,6.98,7.99,high,low,9,namesilo,,,
 0541a424-14c7-437a-b8da-e8e0fa7cc5d9,intriguing.nl,available,6.98,7.99,high,low,10,namesilo,,,
-0b20ec83-0206-4957-932a-aa081c1c2caf,medical.nl,resell,,,high,low,7,TXH Media,19/01/2006 01:57,,18/09/2026 08:22
+0b20ec83-0206-4957-932a-aa081c1c2caf,medical.nl,resell,,,medium,low,7,TXH Media,19/01/2006 01:57,,20/09/2026 03:07
 a8bfdd5b-d30f-4544-bfde-0c2c0ab90aec,clinically.nl,available,6.98,7.99,medium,low,10,namesilo,,,
 bd339904-6638-4b0f-b435-3d8e77128ad2,inthis.nl,available,11.99,,medium,low,7,name.com,,,
 84caf53d-cdf4-4cc0-888b-0031c1fb98c1,continually.nl,available,6.98,7.99,medium,low,11,namesilo,,,
@@ -291,7 +290,7 @@ da5e48e0-2e69-40e8-97b4-bfa8ec558a5d,chairwoman.nl,available,6.98,7.99,high,low,
 0990479e-ad1f-4d9f-bc54-fdd0d712a828,antacid.nl,available,11.99,,high,low,7,name.com,,,
 f2812e1a-91da-433c-b81a-d7d4049dcd27,rotated.nl,available,11.99,,medium,low,7,name.com,,,
 9e7b6bde-744e-408e-a040-68465392033c,thelike.nl,available,6.98,7.99,medium,low,8,namesilo,,,
-e6e770a7-ba0b-47a7-8a9b-e7f0161f91b4,boxer.nl,resell,,,medium,low,5,team.blue nl B.V.,23/10/2001 14:07,,16/09/2026 01:59
+e6e770a7-ba0b-47a7-8a9b-e7f0161f91b4,boxer.nl,resell,,,medium,low,5,team.blue nl B.V.,23/10/2001 14:07,,19/09/2026 03:25
 722b87be-50ef-413b-b686-0f61f6fcd142,deflation.nl,available,6.98,7.99,medium,low,9,namesilo,,,
 4d00d2a6-ce21-4ea4-bc1e-0084d72899bf,asthmatic.nl,available,11.99,,medium,low,9,name.com,,,
 a32cb504-0871-46e1-9dfb-abd3e6a02ecf,uncommitted.nl,available,6.98,7.99,medium,low,11,namesilo,,,
@@ -367,7 +366,7 @@ e75ea231-42e3-4f6b-9b87-a20870b9a53b,concentrated.nl,available,6.98,7.99,medium,
 2c2f33d1-d05f-4a19-b67b-e73916fffaf7,patriotism.nl,available,6.98,7.99,high,low,10,namesilo,,,
 132a45c6-45dc-4dbf-8f16-3ba1a97bacaf,absorbing.nl,available,11.99,11.99,high,low,9,name.com,,,
 9bab3681-745a-433a-8ebc-e03309d9f56a,moderately.nl,available,6.98,7.99,medium,low,10,namesilo,,,
-44f61240-0ba6-4551-9f57-cb2987608d0c,desire.nl,resell,,,medium,low,6,team.blue nl B.V.,09/10/2017 22:28,,15/09/2026 03:37
+44f61240-0ba6-4551-9f57-cb2987608d0c,desire.nl,resell,,,medium,low,6,team.blue nl B.V.,09/10/2017 22:28,,19/09/2026 18:10
 fd374b49-90bd-497c-99f9-db621d41acde,condemn.nl,available,6.98,7.99,medium,low,7,namesilo,,,
 1ddbb5b5-340e-46a0-8b66-7df6a1bf5d08,fireengine.nl,available,11.99,,high,low,11,name.com,,,
 7b4f1081-d246-49b2-b756-5903042f34f7,resonating.nl,available,6.98,7.99,medium,low,10,namesilo,,,
@@ -395,7 +394,7 @@ f1fee98e-8191-48cb-be6b-31ad32efeff5,shineat.nl,available,6.98,7.99,high,low,8,n
 a8e61634-dbb2-4389-b50c-03812d9646b0,atpeace.nl,available,6.98,7.99,high,low,8,namesilo,,,
 ba7e6e78-ae98-46a0-bbb3-8ae3f028d3e8,diplomate.nl,available,6.98,7.99,high,low,9,namesilo,,,
 d217057f-0a8a-413c-92d7-bf3bc8277948,revered.nl,available,11.99,,high,low,7,name.com,,,
-cf42cd0b-9374-4d8b-8b36-e450daa28053,movie.nl,resell,,,high,low,5,Funbit B.V.,20/11/1997 14:13,,
+cf42cd0b-9374-4d8b-8b36-e450daa28053,movie.nl,resell,,,medium,low,5,Funbit B.V.,20/11/1997 14:13,,20/09/2026 03:25
 7e5d76c4-fc03-4641-8462-3c82cd1de967,contracted.nl,available,11.99,11.99,medium,low,10,name.com,,,
 7099381b-f893-40d3-9443-98fb0ab854ef,handmedown.nl,available,6.98,7.99,high,low,12,namesilo,,,
 9a5166ae-27f4-44ce-a7d5-27a59decc882,bed.nl,resell,,,high,low,3,Hostnet B.V.,23/09/1999 06:43,,
@@ -413,7 +412,7 @@ e949b966-8ef2-46cb-8862-ff1ee62eb146,interviewee.nl,available,6.98,7.99,medium,l
 a51e2664-57c9-4017-84fc-91ce06cc3277,career.nl,resell,,,high,low,6,Hostnet B.V.,12/01/1999 10:54,,
 2800401f-5e67-481c-8ec4-00d6dc53f9e4,toy.nl,resell,,,high,low,3,team.blue nl B.V.,12/11/1999 14:06,,
 8c43a95f-f4dd-4187-913f-3b96e900a465,criticism.nl,available,11.99,,medium,low,9,name.com,,,
-88bbb1c9-5be1-47a2-b6ee-aeb57223b8c5,Christianname.nl,available,11.99,,medium,low,14,name.com,,,
+88bbb1c9-5be1-47a2-b6ee-aeb57223b8c5,christianname.nl,available,11.99,,medium,low,14,name.com,,,
 3f08d75e-cbe3-46f0-9119-c73ff2924297,anaemia.nl,available,6.98,7.99,medium,low,7,namesilo,,,
 46332466-1a0d-4b17-ad77-95e969098be2,fat.nl,resell,,,medium,low,3,The Registrar Company B.V.,22/07/1996 22:00,,
 227fb864-505a-42a8-8108-bc9ee70ded76,generalelection.nl,available,11.99,,medium,low,16,name.com,,,
@@ -491,7 +490,7 @@ e0b499ec-6f59-4452-8fe2-ee1b847df0de,telloff.nl,available,6.98,7.99,medium,low,8
 a65446d7-b246-4e34-947a-5c680fc128ba,alveolar.nl,available,11.99,11.99,high,low,8,name.com,,,
 97ee9002-7c17-4bd1-9784-450252c1fe56,tossout.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 1cac177e-14df-4bca-9271-01d40d57e6d2,glassceiling.nl,available,11.99,,medium,low,13,name.com,,,
-db430eb9-d2f1-41f3-b5d7-14d7aa1ab935,sweetFA.nl,available,6.98,7.99,medium,low,8,namesilo,,,
+db430eb9-d2f1-41f3-b5d7-14d7aa1ab935,sweetfa.nl,available,6.98,7.99,medium,low,8,namesilo,,,
 8fbe0fe7-c874-4f65-ad6b-8f8de6b634a4,probable.nl,available,6.98,7.99,high,low,8,namesilo,,,
 89033b95-e115-4e37-a7d6-cc0f8bb9cff5,granddaughter.nl,available,6.98,7.99,high,low,13,namesilo,,,
 ad740a42-999c-4705-8063-056c1728cd6b,severely.nl,available,6.98,7.99,medium,low,8,namesilo,,,
@@ -544,7 +543,7 @@ d952cca6-2563-44d1-a426-bdfb9b72694c,supposed.nl,available,11.99,11.99,high,low,
 c4e950d1-78b0-4646-9e45-2fcb9e62ff82,condolences.nl,available,6.98,7.99,medium,low,11,namesilo,,,
 d828676f-7143-4e5b-b259-e94824a32518,curry.nl,resell,,,high,low,5,Internet Service Europe B.V.,02/06/2010 10:45,,
 d50220db-f26d-47f3-8a18-00f74c4bfb39,eachyear.nl,available,6.98,7.99,high,low,9,namesilo,,,
-5ddbe791-79c6-4984-b3ef-857184050777,Latinalphabet.nl,available,6.98,7.99,medium,low,14,namesilo,,,
+5ddbe791-79c6-4984-b3ef-857184050777,latinalphabet.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 ffd2f4be-9c1a-4240-b3b2-bf84c0187639,dinner.nl,resell,,,high,low,6,ZXCS,06/02/2001 08:34,,
 1061319d-5f0c-4f1d-82c8-9c0b80708f14,publicschool.nl,resell,,,medium,low,13,Realtime Register,13/12/2013 11:08,,
 d33de933-fdda-49e2-895a-c7c785f0f111,licenced.nl,available,11.99,11.99,medium,low,8,name.com,,,
@@ -648,7 +647,7 @@ ae836932-cf9b-4196-a46f-322a54fbff37,whiten.nl,available,6.98,7.99,high,low,6,na
 1fbae76b-f0ce-4124-ba1f-6652d4b035e4,whereas.nl,available,6.98,7.99,high,low,7,namesilo,,,
 08380631-c266-4bc3-86ef-3f1ba2d19850,primeminister.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 2cb81493-6266-4e1f-a217-6231468d2c16,gal.nl,resell,,,medium,low,3,Realtime Register,31/12/1999 17:56,,
-07859906-9f51-4167-aa11-971fc3a70354,FannyAdams.nl,available,6.98,7.99,medium,low,11,namesilo,,,
+07859906-9f51-4167-aa11-971fc3a70354,fannyadams.nl,available,6.98,7.99,medium,low,11,namesilo,,,
 68e5b38f-8e47-4d02-8d8e-df1ce9d9c5f6,vegetarian.nl,resell,,,high,low,10,Registreer.Me,27/05/2021 22:07,,
 93acecd1-b9e5-4e4b-ba2e-002e1698d746,profitmargin.nl,available,11.99,,medium,low,13,name.com,,,
 5f24959f-0818-4b53-bd8c-b44b9243c85b,diskbrake.nl,available,6.98,7.99,high,low,10,namesilo,,,
@@ -674,9 +673,11 @@ e2b0d822-87a8-44d9-8908-dbace533a95e,saclike.nl,available,6.98,7.99,low,low,7,na
 f1b883b1-0184-402a-b7a8-866eee137961,rightist.nl,available,6.98,7.99,low,low,8,namesilo,,,09/09/2026 17:31
 08a031f1-49d6-488b-8908-3aebc61cd7a3,tsaristic.nl,available,11.99,11.99,low,low,9,name.com,,,13/08/2026 14:56
 75cffb5f-c322-4398-a032-274741771211,almukalla.nl,available,6.98,7.99,low,low,10,namesilo,,,18/09/2026 00:57
+9cf3fe52-a4f3-4289-b651-1ef82883a437,aquaregia.nl,available,7.48,8.98,low,low,10,namecheap,,,19/09/2026 22:56
 16a557e9-e8f4-4131-9a13-19015cf6f186,toothdecay.nl,available,6.98,7.99,medium,low,11,namesilo,,,
 5298268b-bbd0-4870-9ae7-34132b8a32c3,diminishing.nl,available,11.99,,medium,low,11,name.com,,,
 9689cb60-47e5-4253-b83e-36a58aa31674,debonnaire.nl,available,11.99,11.99,low,low,10,name.com,,,13/08/2026 20:46
+d865076a-8a04-485c-9b3b-5f0c0d562008,arenga.nl,available,7.48,8.98,low,low,6,namecheap,,,20/09/2026 03:43
 c1272b81-893f-4826-824e-0f9b87d089d0,throngs.nl,available,11.99,,medium,low,7,name.com,,,
 f3eebc1f-5de0-4b55-a70c-d5bf1a7e2c4f,afrikander.nl,available,6.98,7.99,low,low,10,namesilo,,,
 31aa13d6-cd6b-4281-8c05-a57cf5819fc0,gaily.nl,available,7.48,8.98,low,low,5,namecheap,,,14/09/2026 20:57
@@ -705,6 +706,7 @@ ced371db-7206-49c4-85b2-5affc50b3fe9,uponthewhole.nl,available,11.99,,medium,low
 a293325c-121f-47be-871e-4fb24846ef62,chorally.nl,available,6.98,7.99,low,low,8,namesilo,,,14/09/2026 06:49
 9d2e6912-b652-4c61-870d-7ed3adce0ba8,longchain.nl,available,6.98,7.99,low,low,10,namesilo,,,24/08/2026 09:07
 6d6fccf8-b101-43d5-9387-edd95799b240,wittingly.nl,available,6.98,7.99,low,low,9,namesilo,,,15/09/2026 10:32
+0398b9f6-5210-4fbc-b8d4-ef3dc1abba8b,flypoison.nl,available,7.48,8.98,low,low,10,namecheap,,,18/09/2026 21:33
 4619f368-6135-4eb7-8818-9158c02f2eb8,amphoric.nl,available,6.98,7.99,low,low,8,namesilo,,,
 f174d356-0900-418d-baa0-77ef9ca49fa7,wellfixed.nl,available,6.98,7.99,low,low,10,namesilo,,,09/09/2026 03:41
 8f5e964f-473e-4be8-ba50-f98c0d47d51f,oleaginous.nl,available,6.98,7.99,low,low,10,namesilo,,,11/08/2026 11:44
@@ -720,6 +722,7 @@ e8b186c4-2179-4085-9089-33bd2ac3c31d,diestrous.nl,available,6.98,7.99,low,low,9,
 e9f2eea2-7634-4854-ac31-0bbdebb07cbd,comeoutontop.nl,available,6.98,7.99,medium,low,15,namesilo,,,
 5f77c2be-dc97-4f9b-8f36-c6c920c5bd51,dullard.nl,available,6.98,7.99,low,low,7,namesilo,,,10/09/2026 23:07
 1f21445b-61a2-4e0c-adcb-8521904425b7,carryoff.nl,available,11.99,,high,low,9,name.com,,,
+6882000b-2e82-4e80-8b77-a81281f12141,ansaid.nl,available,7.48,8.98,low,low,6,namecheap,,,19/09/2026 12:02
 a0167edd-39c6-44a2-8547-c9ac44c91d9d,eudaemonia.nl,available,6.98,7.99,low,low,10,namesilo,,,12/09/2026 22:59
 acd2e9b6-b547-40a3-abc6-cc335d2586e9,iodin.nl,available,6.98,7.99,low,low,5,namesilo,,,21/08/2026 17:26
 4270f792-ba73-4749-8f6c-3011ec4f4808,getround.nl,available,6.98,7.99,high,low,9,namesilo,,,
@@ -758,6 +761,7 @@ ed77ffbf-ff1f-43e7-bc83-09511946c749,buyat.nl,available,6.98,7.99,low,low,6,name
 9da4574b-a1e3-46f8-a8d9-c8dd478c98c6,ruffianly.nl,available,7.48,8.98,medium,medium,9,namecheap,,,09/09/2026 19:19
 d0d67365-f5f1-433e-94ed-b7b85116e198,principally.nl,available,6.98,7.99,low,low,11,namesilo,,,17/09/2026 06:17
 fbb7fb3d-75be-487f-a895-983f6c546ced,statutoryrape.nl,available,6.98,7.99,medium,low,14,namesilo,,,
+dfb22411-5448-455e-aae5-2bb106f510ec,alumroot.nl,available,6.98,7.99,low,low,8,namesilo,,,18/09/2026 15:07
 e3cb8c3a-84c0-4fe8-be04-e3fd9cc3cb13,somalian.nl,available,6.98,7.99,low,low,8,namesilo,,,10/09/2026 13:56
 1a83c076-98b9-4242-908d-070b3ce6788d,estranging.nl,available,6.98,7.99,low,low,10,namesilo,,,17/08/2026 13:32
 8f0ae2ce-24e4-4a62-b478-4bde8a36c95f,clothingbin.nl,available,6.98,7.99,medium,low,12,namesilo,,,
@@ -784,6 +788,7 @@ cd3dc376-3736-478e-b553-f4c1abbfe31d,treeonion.nl,available,6.98,7.99,low,low,10
 12b602fe-dba1-4337-ab9d-71696906c6ff,atsomepoint.nl,available,6.98,7.99,medium,low,13,namesilo,,,
 3e260ace-b759-4e66-8eee-2f2f786859a0,embroiled.nl,available,7.48,8.98,low,low,9,namecheap,,,16/08/2026 13:25
 1d477bb1-89a1-4a75-b7ae-c263da13840b,pennate.nl,available,6.98,7.99,low,low,7,namesilo,,,08/09/2026 14:37
+ac2af61f-18b3-44e5-94a6-8fb882287948,amyxia.nl,available,6.98,7.99,low,low,6,namesilo,,,19/09/2026 00:42
 d61d4c53-9a61-4ffa-a298-f955c420787a,verbally.nl,available,7.48,8.98,low,low,8,namecheap,,,16/09/2026 10:50
 41673c0d-4a39-484b-84e7-85870d592a0f,shiftless.nl,available,6.98,7.99,medium,medium,9,namesilo,,,10/09/2026 06:28
 3da9f91a-acdd-4bba-b25c-fc941bfee57e,cursorily.nl,available,6.98,7.99,low,low,9,namesilo,,,14/09/2026 10:09
@@ -803,6 +808,7 @@ f632a084-7bc3-4c50-bbe5-e5faa8ce0ae6,patrikin.nl,available,6.98,7.99,low,low,8,n
 95d9cc0e-6005-4ff2-84ea-7bd137deb711,herein.nl,available,6.98,7.99,low,low,6,namesilo,,,15/09/2026 00:30
 9803c3b4-c36c-459d-8896-b8e41153caa0,afflatus.nl,available,6.98,7.99,low,low,8,namesilo,,,17/09/2026 14:39
 c86be8f1-1edf-4afe-96e2-278be2143e50,sibyllic.nl,available,6.98,7.99,low,low,8,namesilo,,,14/08/2026 13:50
+f73eb0a1-beba-499f-8685-5a2cb2735382,araneus.nl,available,6.98,7.99,low,low,7,namesilo,,,20/09/2026 00:05
 fd01fb23-7270-4b0b-8a99-36e68bc8a156,isosmotic.nl,available,6.98,7.99,low,low,9,namesilo,,,22/08/2026 11:20
 2509d092-d42d-4b98-8603-ee1fd9f75bcc,bedraggled.nl,available,6.98,7.99,low,low,10,namesilo,,,09/08/2026 07:28
 21a9e452-51a6-4ed5-80a0-4f3d813db81d,purpleness.nl,available,6.98,7.99,medium,medium,10,namesilo,,,09/09/2026 06:23
@@ -820,9 +826,11 @@ a2341048-287d-4a03-81c1-f6ac4b509938,rugose.nl,available,7.48,8.98,medium,medium
 e401d4cc-eb4f-4996-ac4a-51dbc4bf245c,osteal.nl,available,7.48,8.98,low,low,6,namecheap,,,04/09/2026 18:20
 476f7077-9b7b-451e-978b-956f1dde25f4,calamitous.nl,available,6.98,7.99,low,low,10,namesilo,,,11/08/2026 13:28
 5bf3f095-27e3-4594-8359-f2a1f2562c15,haltingly.nl,available,6.98,7.99,low,low,9,namesilo,,,14/09/2026 22:51
+8afc15b4-4014-4b87-bf0d-556fc9d148a5,parcelling.nl,available,6.98,7.99,low,low,10,namesilo,,,19/09/2026 22:01
 cc94c98d-d97a-44dc-831d-b7edb8557308,mesozoic.nl,available,7.48,8.98,low,low,8,namecheap,,,24/08/2026 21:21
 a2667aa2-a5f6-42e9-9501-10a9589f5dc0,peltate.nl,available,6.98,7.99,low,low,7,namesilo,,,08/09/2026 13:38
 19fb210e-d29d-4f05-bf3b-de271702b420,venushair.nl,available,6.98,7.99,low,low,9,namesilo,,,17/09/2026 08:07
+a03762a1-d235-4663-a0c1-4cde0e21fcea,bradstreet.nl,available,7.48,8.98,low,low,10,namecheap,,,19/09/2026 10:16
 9eb65873-ddea-4e92-b565-39301f5204da,nonskid.nl,available,6.98,7.99,low,low,7,namesilo,,,03/09/2026 20:36
 ee8573da-3b8d-492f-a649-3276253a7f0b,invading.nl,available,6.98,7.99,low,low,8,namesilo,,,22/08/2026 02:12
 670ec985-1c87-4fe4-bf90-32c25dfe1e53,negligible.nl,available,6.98,7.99,low,low,10,namesilo,,,03/09/2026 15:08
@@ -852,11 +860,13 @@ b8e3706b-81e4-4dd6-9959-cdc9ce358392,fastgrowing.nl,available,6.98,7.99,high,low
 677d3201-1d3a-4431-a080-ea6b9f72093a,plausive.nl,available,6.98,7.99,low,low,8,namesilo,,,06/08/2026 08:54
 3d55bcb3-50d8-4063-a657-1c3746a801f3,fishily.nl,available,6.98,7.99,low,low,7,namesilo,,,14/09/2026 18:41
 07940f5d-e848-4062-80c3-695731214fdb,messabout.nl,available,6.98,7.99,low,low,10,namesilo,,,11/09/2026 08:35
-d4dcf8c0-5d70-4f6c-b118-94a67a33f28d,PennStation.nl,available,6.98,7.99,medium,low,12,namesilo,,,
+9bedf15e-c60e-4f9d-9685-bcda88a1e040,ambusher.nl,available,6.98,7.99,low,low,8,namesilo,,,18/09/2026 17:35
+d4dcf8c0-5d70-4f6c-b118-94a67a33f28d,pennstation.nl,available,6.98,7.99,medium,low,12,namesilo,,,
 a45c6821-2472-4882-9a2a-29bb436d11d8,plodding.nl,available,7.48,8.98,low,low,8,namecheap,,,08/09/2026 21:17
 9a010849-a520-4a3a-b555-37c0ca0040c7,nonrandom.nl,available,7.48,8.98,low,low,9,namecheap,,,03/09/2026 20:26
-ae554d52-fae8-4be1-8186-0bdc10a90260,MiddleAmerica.nl,available,6.98,7.99,medium,low,14,namesilo,,,
+ae554d52-fae8-4be1-8186-0bdc10a90260,middleamerica.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 76428439-3d2e-4040-80eb-26544997b829,havethetime.nl,available,11.99,,medium,low,13,name.com,,,
+6dd44b14-2c7a-4751-b547-ebd95d250361,mealberry.nl,available,6.98,7.99,low,low,9,namesilo,,,20/09/2026 02:55
 2e5a4a74-940e-41b0-905d-5af497f38662,abominably.nl,available,6.98,7.99,low,low,10,namesilo,,,13/09/2026 16:28
 5ac5c224-9856-4bc9-94b3-6851db2b139f,fullclad.nl,available,6.98,7.99,low,low,9,namesilo,,,18/08/2026 08:00
 24a11aa1-1b41-4ac0-84f6-8c28bd7b0980,bosomed.nl,available,7.48,8.98,low,low,7,namecheap,,,10/08/2026 20:23
@@ -864,6 +874,7 @@ a7c1e0b5-3cd9-4f61-b548-5695da0f6040,foundingfather.nl,available,6.98,7.99,high,
 d6e3b144-4bfe-431a-a548-38d8aeaaafc8,unworthy.nl,available,6.98,7.99,low,low,8,namesilo,,,14/08/2026 04:05
 cac9b041-fe8a-4322-be07-67315379f369,jihadi.nl,available,6.98,7.99,low,low,6,namesilo,,,22/08/2026 13:21
 ab2600c8-a782-4b48-93f4-5fa76adcc09a,usance.nl,available,7.48,8.98,low,low,6,namecheap,,,13/08/2026 12:25
+580e729f-e47c-407e-b183-72e010bbb703,ankylosis.nl,available,6.98,7.99,low,low,9,namesilo,,,19/09/2026 03:48
 93d0ed24-a2e7-4d56-b4f0-a72c1f2f3bde,unsporting.nl,available,7.48,8.98,low,low,10,namecheap,,,12/09/2026 20:28
 50ee66ae-8716-49da-b1f4-8dcf1dfa6728,aliphatic.nl,available,6.98,7.99,low,low,9,namesilo,,,
 5bae874b-c702-426d-aab4-7d0a6f560935,diarrheic.nl,available,6.98,7.99,low,low,9,namesilo,,,14/08/2026 06:13
@@ -887,6 +898,7 @@ f82491c0-78cf-4a15-a214-971a2821b6e9,cheesefries.nl,available,11.99,,high,low,12
 fc3724f3-b39c-49bb-9048-19677ebe2a99,pubescent.nl,available,6.98,7.99,low,low,9,namesilo,,,09/09/2026 05:15
 4e8ba802-80bd-427f-afc5-c4f412a8f088,ablism.nl,available,7.48,8.98,low,low,6,namecheap,,,16/09/2026 16:11
 aa0bca87-7f23-4712-b830-f99ee4853cfb,havenobusiness.nl,available,6.98,7.99,medium,low,16,namesilo,,,
+962c4223-af6e-4603-be05-06154bae8d2f,anastigmat.nl,available,11.99,11.99,low,low,10,name.com,,,19/09/2026 03:21
 5f10b3fe-126f-476c-8395-3aba8b1bae8b,zonal.nl,available,6.98,7.99,low,low,5,namesilo,,,13/09/2026 15:29
 5a42a014-9395-41c6-bbcb-f8c869074363,unfastened.nl,available,6.98,7.99,low,low,10,namesilo,,,04/09/2026 15:49
 69a95557-a65b-4abb-b338-800cc8fd5eef,accursed.nl,available,6.98,7.99,low,low,8,namesilo,,,
@@ -900,6 +912,7 @@ ea00af95-7bcb-4db4-82ea-92ed730b0a71,squabby.nl,available,6.98,7.99,low,low,7,na
 9aafbc73-b69c-49e2-a674-41138855e559,willfully.nl,available,7.48,8.98,low,low,9,namecheap,,,16/09/2026 11:30
 fa125482-bb48-410a-b0b5-a4cc696512cf,unjustly.nl,available,6.98,7.99,low,low,8,namesilo,,,16/09/2026 10:09
 48767459-565d-4a81-88b7-2671dd0eadd4,pimply.nl,available,6.98,7.99,low,low,6,namesilo,,,
+e15886a1-5509-4ba8-80db-ab9e7f9bac1c,araujia.nl,available,6.98,7.99,low,low,7,namesilo,,,20/09/2026 00:28
 c23f69d4-310d-4a29-93ac-b1591a882337,assailable.nl,available,6.98,7.99,low,low,10,namesilo,,,07/08/2026 05:27
 2aed84a3-1192-4c4b-b9b4-085ea0c356db,unadvisable.nl,available,6.98,7.99,medium,low,11,namesilo,,,
 6e75f3e3-de4e-4ed5-8b04-71bceae93c52,adzharia.nl,available,7.48,8.98,low,low,8,namecheap,,,17/09/2026 12:03
@@ -911,6 +924,7 @@ bf963b29-5ed5-4a60-ad8a-23ff9fff327c,roseola.nl,available,6.98,7.99,medium,mediu
 1474fe67-d3bd-4542-b581-0a632b1a0d4d,yeatsian.nl,available,6.98,7.99,low,low,8,namesilo,,,13/09/2026 14:28
 0d797722-6702-467a-b379-b2eee5a8914d,meandthee.nl,available,6.98,7.99,medium,low,11,namesilo,,,
 3c728729-654d-489e-b46d-2cf7111cbac1,analogous.nl,available,6.98,7.99,low,low,9,namesilo,,,
+80717c73-13eb-42e1-9218-9472a2be97dd,appanage.nl,available,6.98,7.99,low,low,8,namesilo,,,19/09/2026 16:11
 2fa9192a-fc86-4d96-9116-33d99df3efe7,naturalperson.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 10d7d97b-601d-4927-bd58-bfc70ff0bf88,backstretch.nl,available,11.99,,high,low,12,name.com,,,
 4f3449ce-447d-4d7d-9ccc-e9faf241576e,shitless.nl,available,6.98,7.99,low,medium,8,namesilo,,,10/09/2026 06:39
@@ -920,6 +934,7 @@ bf963b29-5ed5-4a60-ad8a-23ff9fff327c,roseola.nl,available,6.98,7.99,medium,mediu
 c0ab299b-c1c6-4544-9cb8-fdf64a54a279,bullheaded.nl,available,6.98,7.99,low,low,10,namesilo,,,11/08/2026 08:30
 4db81015-b7c5-4169-9b20-953aab216fa3,grammatic.nl,available,7.48,8.98,low,low,9,namecheap,,,20/08/2026 17:56
 17f8155e-d9ae-4467-96a1-865289e4ba99,bidentate.nl,available,7.48,8.98,low,low,9,namecheap,,,09/08/2026 19:50
+237de9e3-cfc4-4aff-a623-a92055ba19b1,arctangent.nl,available,6.98,7.99,low,low,10,namesilo,,,20/09/2026 01:30
 bb64525e-b51f-4a72-8550-0e6968643c50,epithelial.nl,available,6.98,7.99,low,low,10,namesilo,,,17/08/2026 11:16
 880deca0-76ba-473b-86ad-0322efd35741,lingually.nl,available,6.98,7.99,low,low,9,namesilo,,,15/09/2026 12:28
 e5079d7e-76f2-4a83-adfb-e655c684eff2,seditious.nl,available,6.98,7.99,low,low,9,namesilo,,,22/08/2026 01:29
@@ -935,14 +950,18 @@ c6f92477-049a-46ca-8e51-1a04ae91ba19,befogged.nl,available,6.98,7.99,low,low,8,n
 5553daa6-23d6-43d0-84c4-1199f5e9a538,retractile.nl,available,6.98,7.99,low,low,10,namesilo,,,09/09/2026 15:42
 dff138b1-e2ec-4f2b-8754-69efe328466f,congener.nl,available,6.98,7.99,low,low,8,namesilo,,,12/08/2026 21:34
 1988b0f3-3b8a-46e9-99c1-1e0a27f85661,locustpod.nl,available,7.48,8.98,low,low,10,namecheap,,,18/09/2026 06:53
+57310553-092e-42a5-9a33-633fe5b7bde3,loneliness.nl,resell,,,low,low,10,,,,18/09/2026 13:13
+f916c116-1b11-4154-9447-42de69020d91,alpenstock.nl,available,6.98,7.99,low,low,10,namesilo,,,18/09/2026 13:32
 bd8e8532-cff3-43ec-b819-390b27c1b080,greywhite.nl,available,7.48,8.98,low,low,10,namecheap,,,20/08/2026 19:25
+5dd15a2a-5321-4139-a9c7-2e7bdf1d4138,aphididae.nl,available,6.98,7.99,low,low,9,namesilo,,,19/09/2026 17:03
 e93e0bd9-08b3-4b6a-8ae2-c00e170fc0a2,getturnedaround.nl,available,6.98,7.99,medium,low,17,namesilo,,,
 50cbbc2c-ef75-4dbb-9cfe-63ad4c489221,ambulatory.nl,available,6.98,7.99,low,low,10,namesilo,,,
 8490f25e-ea37-4388-8e06-8acbe2290ebf,vaporish.nl,available,6.98,7.99,low,low,8,namesilo,,,13/09/2026 01:11
 ea2266b5-5a4e-4a97-b186-de2333202bff,frugally.nl,available,7.48,8.98,low,low,8,namecheap,,,14/09/2026 20:25
 257dfa03-c09e-415a-bfde-fc7ed8a406e8,seeabout.nl,available,6.98,7.99,high,low,9,namesilo,,,
 6f5927eb-2764-4ef5-b5a2-171b9f8dcc4e,entered.nl,available,7.48,8.98,low,low,7,namecheap,,,18/09/2026 11:17
-1f143a06-4f41-4dc2-98bf-32063582910c,touchdowns.nl,available,6.98,7.99,medium,low,10,namesilo,,,
+a6f76bed-e4c6-4ccb-b812-074c8777af15,ambiguity.nl,available,6.98,7.99,low,low,9,namesilo,,,18/09/2026 16:43
+1f143a06-4f41-4dc2-98bf-32063582910c,touchdowns.nl,available,6.98,7.99,low,low,10,namesilo,,,19/09/2026 23:06
 abe0707d-50ab-4aa6-a3a4-1638c2330f3f,sloshed.nl,available,6.98,7.99,low,low,7,namesilo,,,09/08/2026 15:48
 0473bd7e-9b61-43ea-a03e-276806dd868a,halfbound.nl,available,6.98,7.99,low,low,10,namesilo,,,20/08/2026 22:38
 e580f8bd-c4c1-4471-8721-86a27d4abaed,tricuspid.nl,available,7.48,8.98,low,low,9,namecheap,,,11/09/2026 19:29
@@ -952,18 +971,22 @@ e580f8bd-c4c1-4471-8721-86a27d4abaed,tricuspid.nl,available,7.48,8.98,low,low,9,
 60f55016-78bf-4937-9392-1f724a996404,abiders.nl,available,7.48,8.98,low,low,7,namecheap,,,18/09/2026 03:55
 a3dfe8d7-b1c2-4d93-bc5c-b48159b1ccff,conniving.nl,available,6.98,7.99,low,low,9,namesilo,,,11/08/2026 14:01
 11c943ec-4c56-44fe-ac07-ac1c9e10a895,vermicular.nl,available,6.98,7.99,low,low,10,namesilo,,,13/09/2026 02:27
+13bd39a3-c803-4e3c-a7a5-8b5acffc6a18,apatosaur.nl,available,6.98,7.99,low,low,9,namesilo,,,19/09/2026 16:20
+acba9a9e-f05e-42a8-9c4f-756715fc3325,antitrades.nl,available,6.98,7.99,low,low,10,namesilo,,,19/09/2026 15:13
 c81d2e65-7e85-48c4-9047-cb94d3b84a41,snorty.nl,available,6.98,7.99,medium,medium,6,namesilo,,,10/09/2026 06:38
 41410406-7793-4428-86e5-7cd791321068,nominated.nl,available,7.48,8.98,low,low,9,namecheap,,,03/09/2026 18:18
 fed84893-9bdf-4f29-ae50-603799818974,chapfallen.nl,available,6.98,7.99,low,low,10,namesilo,,,12/08/2026 02:13
+63c6f8ad-f590-4daa-880d-0a1de1d35be5,rightness.nl,available,6.98,7.99,low,low,9,namesilo,,,19/09/2026 22:23
 ec56b8f8-f540-4be5-b90f-7830f44c170a,maddening.nl,available,6.98,7.99,low,low,9,namesilo,,,17/08/2026 15:55
-5b39bfee-0b8d-4215-a5ef-77d76f75810f,suppresses.nl,available,11.99,,medium,low,10,name.com,,,
+5b39bfee-0b8d-4215-a5ef-77d76f75810f,suppresses.nl,available,6.98,7.99,low,low,10,namesilo,,,18/09/2026 13:07
 198f5b90-b660-4844-b47f-2cbb6a6d6764,clxxx.nl,available,6.98,7.99,low,low,5,namesilo,,,
 c29d574b-1ea2-4a44-885d-c4d0f99c2440,favourably.nl,available,7.48,8.98,low,low,10,namecheap,,,14/09/2026 18:03
-1cb6b45b-963b-4fb7-9f58-ec1f13e3c1ff,Frenchpancake.nl,available,11.99,,high,low,14,name.com,,,
+1cb6b45b-963b-4fb7-9f58-ec1f13e3c1ff,frenchpancake.nl,available,11.99,,high,low,14,name.com,,,
 6fc74da9-347e-4f6d-84e9-77fb3b60e85d,paraguayan.nl,available,6.98,7.99,low,low,10,namesilo,,,08/09/2026 00:55
 73556836-a96b-4564-9604-4db705008a46,wigless.nl,available,6.98,7.99,low,low,7,namesilo,,,13/09/2026 11:56
 afe0b637-61a4-49f2-b2da-69f2245856e3,apian.nl,available,6.98,7.99,low,low,5,namesilo,,,05/08/2026 23:47
-0704c55e-238d-4281-8d1f-df340157618a,BlackPlague.nl,available,6.98,7.99,medium,low,12,namesilo,,,
+716188da-2815-47e0-b792-e338f9a56e94,silverbush.nl,available,6.98,7.99,low,low,10,namesilo,,,19/09/2026 14:04
+0704c55e-238d-4281-8d1f-df340157618a,blackplague.nl,available,6.98,7.99,medium,low,12,namesilo,,,
 afd7b86b-25ab-4ade-94ca-34483ca7c6df,lackluster.nl,available,7.48,8.98,low,low,10,namecheap,,,22/08/2026 18:07
 cc50e124-a220-4ffb-865b-28cc6c01a39a,neckless.nl,available,6.98,7.99,low,low,8,namesilo,,,03/09/2026 14:41
 12ddd897-7f6b-44bc-93a6-e31a85235979,silkily.nl,available,6.98,7.99,low,low,7,namesilo,,,16/09/2026 01:51
@@ -976,26 +999,3 @@ b080088f-5516-4b6a-b730-ac3b087204b5,goforbroke.nl,available,6.98,7.99,high,low,
 e5bc68a2-cbf0-476b-9463-cd447dd11346,sororal.nl,available,6.98,7.99,low,low,7,namesilo,,,10/09/2026 08:56
 f900e395-b593-4ec5-b522-a5cfd77cfc91,compeer.nl,resell,,,low,low,7,Registreer.Me,09/12/2020 01:07,,17/08/2026 11:35
 dd63965d-8a8f-46d5-ba3c-75645f859806,aberdonian.nl,available,6.98,7.99,low,low,10,namesilo,,,
-286221a9-dafe-4166-8e7e-a9e0e11f9d65,unlovable.nl,available,6.98,7.99,low,low,9,namesilo,,,12/09/2026 15:08
-d4d5dd42-eca9-4918-b8ce-d7e9ba47c61f,albuminous.nl,available,6.98,7.99,low,low,10,namesilo,,,
-9ab0a7ef-373f-4548-bb82-ec8955201371,labiate.nl,available,6.98,7.99,low,low,7,namesilo,,,22/08/2026 17:25
-276c2ee2-326e-4818-8574-70771f2e5ac7,alcoholusedisorder.nl,available,11.99,,medium,low,20,name.com,,,
-70226be3-0d44-4e2e-8a99-bb82e02791b1,tutelary.nl,available,7.48,8.98,low,low,8,namecheap,,,13/08/2026 12:21
-082ef50a-053e-4662-89bd-af946e901c35,alkalizer.nl,available,6.98,7.99,low,low,9,namesilo,,,
-de593268-be1d-4967-ba6b-7b7f16e076c6,cisalpine.nl,available,6.98,7.99,low,low,9,namesilo,,,12/08/2026 08:25
-d9f32e6c-4745-4359-9bc9-827be24fb8ce,unliveried.nl,available,6.98,7.99,low,low,10,namesilo,,,12/09/2026 15:01
-52282e02-916e-4e5a-99f7-fabdc0f90fae,lenify.nl,available,6.98,7.99,low,low,6,namesilo,,,18/08/2026 22:02
-0affcfa9-a0ff-4159-b802-8ae14db93dbe,amiability.nl,available,6.98,7.99,low,low,10,namesilo,,,17/09/2026 13:57
-614e3de7-6e66-4fc0-a47d-db0e23c196e3,orchestral.nl,available,6.98,7.99,low,low,10,namesilo,,,04/09/2026 17:42
-22b21898-6ef9-4783-af05-3f58961b3cf9,carious.nl,available,7.48,8.98,low,low,7,namecheap,,,11/08/2026 19:20
-fc8416ac-b50d-48de-83dc-fd826fdcec95,agonizing.nl,available,6.98,7.99,low,low,9,namesilo,,,
-328e97f1-a4ea-4beb-85c5-af0d7af85526,exercisebicycle.nl,available,6.98,7.99,medium,low,16,namesilo,,,
-13f44717-1726-49a1-9d6d-d396a1e95c85,handless.nl,available,6.98,7.99,low,low,8,namesilo,,,11/08/2026 10:12
-f2ef502b-ca5a-46b6-b5fc-f30c32f96787,ransacked.nl,available,6.98,7.99,low,low,9,namesilo,,,24/08/2026 09:49
-9f275850-e3a2-4491-91d1-585453b1df21,improvised.nl,available,6.98,7.99,low,low,10,namesilo,,,21/08/2026 23:19
-bb1ba249-39f2-46e3-a347-d341b769f7a8,licensinglaw.nl,available,6.98,7.99,medium,low,13,namesilo,,,
-dc252aa1-b7fe-463e-a502-6745f9ab1fbd,fiendish.nl,available,6.98,7.99,low,low,8,namesilo,,,14/08/2026 01:31
-7a6ce7f3-a0aa-4950-a629-0346e5214c0f,hyperemic.nl,available,6.98,7.99,low,low,9,namesilo,,,21/08/2026 16:46
-9eebeb7d-4c0b-41b9-b714-0fb7271eec53,misshapen.nl,available,6.98,7.99,low,low,9,namesilo,,,13/08/2026 23:48
-cba0bd93-2cf9-41d8-9772-a68ff5ecc41b,diecast.nl,resell,,,low,low,8,team.blue nl B.V.,06/06/2010 07:03,,14/08/2026 06:45
-fe4fb52b-6bed-44ad-8e2d-e4fdc1d33b5a,anumberof.nl,available,6.98,7.99,medium,low,11,namesilo,,,
